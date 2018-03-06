@@ -1,0 +1,7 @@
+E:\CodeDemo\DesignDome\DesignDemo\SimpleFactory\bin\Debug\SimpleFactory.exe.config
+E:\CodeDemo\DesignDome\DesignDemo\SimpleFactory\bin\Debug\SimpleFactory.exe
+E:\CodeDemo\DesignDome\DesignDemo\SimpleFactory\bin\Debug\SimpleFactory.pdb
+E:\CodeDemo\DesignDome\DesignDemo\SimpleFactory\obj\Debug\SimpleFactory.exe
+E:\CodeDemo\DesignDome\DesignDemo\SimpleFactory\obj\Debug\SimpleFactory.pdb
+E:\CodeDemo\DesignDome\DesignDemo\SimpleFactory\obj\Debug\SimpleFactory.Properties.Resources.resources
+E:\CodeDemo\DesignDome\DesignDemo\SimpleFactory\obj\Debug\SimpleFactory.csproj.GenerateResource.Cache
