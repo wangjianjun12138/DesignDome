@@ -11,6 +11,7 @@ namespace SimpleFactory
         /// <summary>
         /// 上端屏蔽细节
         /// 可扩展
+        /// 
         /// </summary>
         static void Main(string[] args)
         {

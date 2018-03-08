@@ -1,0 +1,5 @@
+E:\CodeDemo\DesignDome\DesignDemo\AbstractFactoryPattern\bin\Debug\AbstractFactoryPattern.exe.config
+E:\CodeDemo\DesignDome\DesignDemo\AbstractFactoryPattern\bin\Debug\AbstractFactoryPattern.exe
+E:\CodeDemo\DesignDome\DesignDemo\AbstractFactoryPattern\bin\Debug\AbstractFactoryPattern.pdb
+E:\CodeDemo\DesignDome\DesignDemo\AbstractFactoryPattern\obj\Debug\AbstractFactoryPattern.exe
+E:\CodeDemo\DesignDome\DesignDemo\AbstractFactoryPattern\obj\Debug\AbstractFactoryPattern.pdb

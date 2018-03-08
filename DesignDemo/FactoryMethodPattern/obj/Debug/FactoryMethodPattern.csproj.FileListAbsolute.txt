@@ -1,0 +1,8 @@
+E:\CodeDemo\DesignDome\DesignDemo\FactoryMethodPattern\bin\Debug\FactoryMethodPattern.exe.config
+E:\CodeDemo\DesignDome\DesignDemo\FactoryMethodPattern\bin\Debug\FactoryMethodPattern.exe
+E:\CodeDemo\DesignDome\DesignDemo\FactoryMethodPattern\bin\Debug\FactoryMethodPattern.pdb
+E:\CodeDemo\DesignDome\DesignDemo\FactoryMethodPattern\bin\Debug\SimpleFactory.exe
+E:\CodeDemo\DesignDome\DesignDemo\FactoryMethodPattern\bin\Debug\SimpleFactory.pdb
+E:\CodeDemo\DesignDome\DesignDemo\FactoryMethodPattern\obj\Debug\FactoryMethodPattern.csprojResolveAssemblyReference.cache
+E:\CodeDemo\DesignDome\DesignDemo\FactoryMethodPattern\obj\Debug\FactoryMethodPattern.exe
+E:\CodeDemo\DesignDome\DesignDemo\FactoryMethodPattern\obj\Debug\FactoryMethodPattern.pdb

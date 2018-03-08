@@ -7,6 +7,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SingletonPattern", "DesignD
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleFactory", "SimpleFactory\SimpleFactory.csproj", "{6BD7E432-A606-4F15-8CC1-9A1D959B1B46}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FactoryMethodPattern", "FactoryMethodPattern\FactoryMethodPattern.csproj", "{DE8E3955-259E-4F22-AFD5-4B42D0432861}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AbstractFactoryPattern", "AbstractFactoryPattern\AbstractFactoryPattern.csproj", "{1A62374F-1C8F-4739-AAD4-C483BF09B16E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +25,14 @@ Global
 		{6BD7E432-A606-4F15-8CC1-9A1D959B1B46}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6BD7E432-A606-4F15-8CC1-9A1D959B1B46}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6BD7E432-A606-4F15-8CC1-9A1D959B1B46}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DE8E3955-259E-4F22-AFD5-4B42D0432861}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE8E3955-259E-4F22-AFD5-4B42D0432861}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE8E3955-259E-4F22-AFD5-4B42D0432861}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE8E3955-259E-4F22-AFD5-4B42D0432861}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1A62374F-1C8F-4739-AAD4-C483BF09B16E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A62374F-1C8F-4739-AAD4-C483BF09B16E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1A62374F-1C8F-4739-AAD4-C483BF09B16E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1A62374F-1C8F-4739-AAD4-C483BF09B16E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
