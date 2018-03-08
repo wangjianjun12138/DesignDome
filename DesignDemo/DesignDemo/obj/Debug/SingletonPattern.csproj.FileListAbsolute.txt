@@ -1,0 +1,6 @@
+E:\CodeDemo\DesignDome\DesignDemo\DesignDemo\bin\Debug\DesignDemo.exe.config
+E:\CodeDemo\DesignDome\DesignDemo\DesignDemo\bin\Debug\DesignDemo.exe
+E:\CodeDemo\DesignDome\DesignDemo\DesignDemo\bin\Debug\DesignDemo.pdb
+E:\CodeDemo\DesignDome\DesignDemo\DesignDemo\obj\Debug\SingletonPattern.csprojResolveAssemblyReference.cache
+E:\CodeDemo\DesignDome\DesignDemo\DesignDemo\obj\Debug\DesignDemo.exe
+E:\CodeDemo\DesignDome\DesignDemo\DesignDemo\obj\Debug\DesignDemo.pdb

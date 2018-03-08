@@ -53,9 +53,9 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\SimpleFactory\SimpleFactory.csproj">
+    <ProjectReference Include="..\SimpleFactory\SimpleFactoryPattern.csproj">
       <Project>{6bd7e432-a606-4f15-8cc1-9a1d959b1b46}</Project>
-      <Name>SimpleFactory</Name>
+      <Name>SimpleFactoryPattern</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

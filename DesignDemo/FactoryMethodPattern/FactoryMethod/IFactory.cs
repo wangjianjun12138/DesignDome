@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace FactoryMethodPattern
 {
-    interface IFactory
+    public interface IFactory
     {
          IAnimal CreateInstance();
     }

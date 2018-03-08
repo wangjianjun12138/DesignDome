@@ -5,7 +5,7 @@ VisualStudioVersion = 12.0.21005.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SingletonPattern", "DesignDemo\SingletonPattern.csproj", "{CE5474D8-5EFD-48A3-A1CD-A0B74EB97458}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleFactory", "SimpleFactory\SimpleFactory.csproj", "{6BD7E432-A606-4F15-8CC1-9A1D959B1B46}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleFactoryPattern", "SimpleFactory\SimpleFactoryPattern.csproj", "{6BD7E432-A606-4F15-8CC1-9A1D959B1B46}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FactoryMethodPattern", "FactoryMethodPattern\FactoryMethodPattern.csproj", "{DE8E3955-259E-4F22-AFD5-4B42D0432861}"
 EndProject

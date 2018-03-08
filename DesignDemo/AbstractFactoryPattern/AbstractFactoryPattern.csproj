@@ -41,11 +41,29 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Factory\FactoryCat.cs" />
+    <Compile Include="Factory\FactoryPanda.cs" />
+    <Compile Include="Factory\FactoryDog.cs" />
+    <Compile Include="Interface\IFactoryAbstract.cs" />
+    <Compile Include="PandaFood.cs" />
+    <Compile Include="DogFood.cs" />
+    <Compile Include="CatFood.cs" />
+    <Compile Include="Interface\IFood.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\FactoryMethodPattern\FactoryMethodPattern.csproj">
+      <Project>{de8e3955-259e-4f22-afd5-4b42d0432861}</Project>
+      <Name>FactoryMethodPattern</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\SimpleFactory\SimpleFactoryPattern.csproj">
+      <Project>{6bd7e432-a606-4f15-8cc1-9a1d959b1b46}</Project>
+      <Name>SimpleFactoryPattern</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
