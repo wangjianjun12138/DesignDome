@@ -5,3 +5,4 @@ E:\CodeDemo\DesignDome\DesignDemo\SimpleFactory\obj\Debug\SimpleFactory.Properti
 E:\CodeDemo\DesignDome\DesignDemo\SimpleFactory\obj\Debug\SimpleFactoryPattern.csproj.GenerateResource.Cache
 E:\CodeDemo\DesignDome\DesignDemo\SimpleFactory\obj\Debug\SimpleFactory.exe
 E:\CodeDemo\DesignDome\DesignDemo\SimpleFactory\obj\Debug\SimpleFactory.pdb
+E:\CodeDemo\DesignDome\DesignDemo\SimpleFactory\obj\Debug\SimpleFactoryPattern.csprojResolveAssemblyReference.cache
