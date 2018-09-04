@@ -1,0 +1,5 @@
+E:\MyCode\DesignDome\DesignDemo\AgencyPattern\bin\Debug\AgencyPattern.exe.config
+E:\MyCode\DesignDome\DesignDemo\AgencyPattern\bin\Debug\AgencyPattern.exe
+E:\MyCode\DesignDome\DesignDemo\AgencyPattern\bin\Debug\AgencyPattern.pdb
+E:\MyCode\DesignDome\DesignDemo\AgencyPattern\obj\Debug\AgencyPattern.exe
+E:\MyCode\DesignDome\DesignDemo\AgencyPattern\obj\Debug\AgencyPattern.pdb
